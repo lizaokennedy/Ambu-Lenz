@@ -1,6 +1,7 @@
 {
   "projects": {
     "front-end": "git@github.com:lizaokennedy/ambulance-visualization-front-end.git",
-    "back-end": "git@github.com:lizaokennedy/ambulance-visualization-back-end.git"
+    "back-end": "git@github.com:lizaokennedy/ambulance-visualization-back-end.git",
+    "data": "git@github.com:lizaokennedy/ambulance-visualization-data.git"
   }
 }
